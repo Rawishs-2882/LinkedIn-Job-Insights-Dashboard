@@ -23,7 +23,7 @@ Results are rendered as interactive charts, making trends easy to read at a glan
 ## Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=mysql,js,html" />
+<img src="https://tech-stack.wontory.dev/api/orbit?text=JobInsights&slugs=mysql,javascript,html5" alt="tech stack orbit" width="380" />
 </div>
 
 SQL for querying and analytics, Chart.js for visualization, and JavaScript for the interactive dashboard frontend.
